@@ -1,0 +1,38 @@
+13:12:28 - Cleaning folders in home 
+13:12:28 - Installed initial dependencies 
+13:12:28 - Starting the menu 
+13:12:28 - updating emsdk install script
+13:12:28 - Installing emsdk
+13:12:28 - Activating emsdk
+13:12:28 - Removing compacted files
+13:13:21 - Cleaning folders in home 
+13:13:21 - Installed initial dependencies 
+13:13:21 - Starting the menu 
+13:13:21 - updating emsdk install script
+13:13:21 - Installing emsdk
+13:13:21 - Activating emsdk
+13:13:21 - Removing compacted files
+13:14:33 - Cleaning folders in home 
+13:14:33 - Installed initial dependencies 
+13:14:33 - Starting the menu 
+13:14:33 - updating emsdk install script
+13:14:33 - Installing emsdk
+13:14:33 - Activating emsdk
+13:14:33 - Removing compacted files
+13:18:47 - Cleaning folders in home 
+13:18:47 - Installed initial dependencies 
+13:18:47 - Starting the menu 
+13:18:47 - updating emsdk install script
+13:18:47 - Installing emsdk
+13:18:47 - Activating emsdk
+13:18:47 - Removing compacted files
+13:24:17 - Cleaning folders in home 
+13:24:17 - Installed initial dependencies 
+13:24:17 - Starting the menu 
+17:11:05 - Cleaning folders in home 
+17:16:00 - Cleaning folders in home 
+17:19:25 - Cleaning folders in home 
+17:26:11 - Cleaning folders in home 
+17:27:21 - Cleaning folders in home 
+17:28:17 - Cleaning folders in home 
+17:28:55 - Cleaning folders in home 
