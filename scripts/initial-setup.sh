@@ -15,6 +15,7 @@ android_ndk_url="https://dl.google.com/android/repository/${android_ndk_version}
 android_sdk_url="https://dl.google.com/android/android-sdk_r24.4.1-linux.tgz"
 openjdk_url="http://security.ubuntu.com/ubuntu/pool/main/o/openjdk-8/openjdk-8-jdk-headless_8u111-b14-2ubuntu0.16.04.2_amd64.deb"
 now=$(date +"%T")
+GODOT_REPO="https://github.com/godotengine/godot.git"
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 log_file=$HOME/godot/log.txt
 ##
@@ -22,6 +23,13 @@ log_file=$HOME/godot/log.txt
 # Make scripts executable
 chmod 0755 $HOME/scripts/*.sh
 # Include all the scripts
+
+# # quick fix
+# mkdir "$HOME/Downloads"
+# wget http://security.ubuntu.com/ubuntu/pool/main/s/systemd/libudev-dev_229-4ubuntu10_amd64.deb -O $HOME/Downloads/libudev-dev.deb
+# sudo dpkg -i $HOME/Downloads/libudev-dev.deb -y
+# sudo apt-get install -f -y
+# read
 
 # Show the command to update and an important message!
 dialog --title "Hello" --msgbox "You can download the latest version of this script by running 'update-scripts.sh'. Don't run this script in your host machine!" 0 0

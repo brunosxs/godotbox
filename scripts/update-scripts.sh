@@ -8,6 +8,7 @@ if [ ! -d "/home/ubuntu/scripts" ]; then
   mkdir $HOME/scripts
 fi
 # Install needed dependencies
+sudo apt-get dist-upgrade
 sudo apt-get install git dialog unzip zip -y
 echo "Checking for update of the main script..."
 wget https://github.com/brunosxs/godotbox/raw/master/scripts/initial-setup.sh -O $HOME/scripts/initial-setup.sh

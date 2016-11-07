@@ -19,3 +19,5 @@ then
 else
   echo "$now - Success" >> $log_file
 fi
+
+source $DIR/build.sh

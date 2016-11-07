@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/godot":{"mount_options":["dmode=777","fmode=666"],"guestpath":"/home/ubuntu/godot","hostpath":"/home/brunosxs/development/godotbox/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/brunosxs/development/godotbox","disabled":false,"__vagrantfile":true}}}
